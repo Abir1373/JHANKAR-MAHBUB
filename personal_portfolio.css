@@ -1,0 +1,46 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.spn-clr1 {
+    color: aqua;
+}
+
+section {
+    display: flex;
+}
+
+.div-c2 {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+
+.div-c2 img {
+    width: 300%;
+}
+
+.clk1 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, aqua);
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.sec1 {
+    background-image: url(lfy.png);
+    background-repeat: no-repeat;
+}
+
+.div-c1 {
+    margin-top: 90px;
+    margin-left: 50px;
+}
